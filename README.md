@@ -21,7 +21,7 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, desde a parte da programação até mesmo a parte de infra. E me sinto realizado em por mudar a vida das pessoas atráves disso.
+Apaixonado por tecnologia, desde a parte da programação até mesmo a parte de infra. E me sinto realizado por mudar a vida das pessoas atráves disso.
 
 ### Últimos Projetos:
 - [Site - ADEVIPS](https://www.adevips.com.br/)<br/>
